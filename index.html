@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Countdown and Factorial Calculator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Event Countdown & Factorial Calculator</h1>
+    </header>
+    <main>
+        <section id="countdown">
+            <h2>Event Countdown</h2>
+            <label for="event-date">Select Event Date:</label>
+            <input type="datetime-local" id="event-date">
+            <button id="start-countdown">Start Countdown</button>
+            <p id="countdown-display"></p>
+        </section>
+        <section id="factorial">
+            <h2>Factorial Calculator</h2>
+            <label for="factorial-input">Enter a Number:</label>
+            <input type="number" id="factorial-input" min="0">
+            <button id="calc-iterative">Calculate Iterative</button>
+            <button id="calc-recursive">Calculate Recursive</button>
+            <p id="factorial-result"></p>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
