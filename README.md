@@ -1,8 +1,8 @@
 # virtunex-week-1-task
-#GOAL :
+# GOAL :
 Design a responsive footer with links to social media, terms of service, and privacy policies.
 
-#Structure:
+# Structure:
 User Interface: Design a simple and user-friendly web interface where users can input a number and calculate its factorial using both iterative and recursive methods.
 
 Input Validation: Implement checks to ensure the user enters a valid positive integer.
@@ -11,7 +11,7 @@ Output: Display the calculated factorial value, and the method used (iterative o
 
 Backend (Optional): Use server-side technologies to handle the calculations if necessary, or simply handle the logic on the client side.
 
-#Technologies:
+# Technologies:
 
 HTML: For creating the structure of the web page.
 
@@ -27,7 +27,7 @@ API: Optionally, create a REST API for calculating factorial using both methods.
 
 Database (Optional): If required, store user input and results in a database.
 
-#Optional:
+# Optional:
 
 Bootstrap/Tailwind CSS: To expedite styling and ensure responsiveness across devices.
 
@@ -35,14 +35,14 @@ React.js/Vue.js/Angular: For creating dynamic, single-page applications if the p
 
 API Integration: If backend calculation is needed, integrate a server-side technology like Node.js or Django.
 
-#Deliverables:
+# Deliverables:
 Complete front-end code (HTML, CSS, JavaScript) and optionally backend files.
 
 A working web application hosted on a platform like GitHub Pages, Netlify, or Heroku (if backend is used).
 
 Documentation of the app’s functionality, usage, and setup.
 
-#Checklist:
+# Checklist:
 Design a clean and simple user interface for the web page.
 
 Implement factorial logic in JavaScript (both iterative and recursive methods).
