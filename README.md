@@ -1,4 +1,4 @@
-# virtunex-week-1-task
+# Virtunexa-week-1-task
 # GOAL :
 Design a responsive footer with links to social media, terms of service, and privacy policies.
 
